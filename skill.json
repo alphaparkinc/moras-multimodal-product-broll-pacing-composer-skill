@@ -1,0 +1,12 @@
+{
+  "name": "moras-multimodal-product-broll-pacing-composer-skill",
+  "version": "1.0.0",
+  "description": "Multimodal short-form video scene rhythm composer aligning B-roll shot durations with speech cadence and audio beat drops",
+  "author": "AlphaPark Engineering",
+  "license": "MIT",
+  "keywords": ["broll-composer", "video-pacing", "short-form-video", "music-sync", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
